@@ -1,0 +1,5 @@
+{
+  "env": {
+    "SERVICE_ACCOUNT": "@service_account"
+  }
+}
