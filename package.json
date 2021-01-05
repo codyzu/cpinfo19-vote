@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Cody Zuschlag <cody.zuschlag@gmail.com>",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "bootswatch": "^4.4.1",
     "firebase": "^7.7.0",
